@@ -9,7 +9,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - proconio 0.3.6
 
 ## Progress
-- [x] 001 - Yokan Party（★4）
+- [x] 001 - Yokan Party（★4）done: 2023/02/23
 - [ ] 002 - Encyclopedia of Parentheses（★3）
 - [ ] 003 - Longest Circular Road（★4）
 - [ ] 004 - Cross Sum（★2） 
