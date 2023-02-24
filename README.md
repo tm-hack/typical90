@@ -10,6 +10,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - WSL2
 - cargo
 - proconio 0.3.6
+- ndarray 0.13.0
 
 ## Progress
 
