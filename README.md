@@ -16,7 +16,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - [x] 001 - Yokan Party（★4）done: 2023/02/23
 - [x] 002 - Encyclopedia of Parentheses（★3）done: 2023/02/24
 - [x] 003 - Longest Circular Road（★4）done: 2023/02/24
-- [x] 004 - Cross Sum（★2）
+- [x] 004 - Cross Sum（★2）done: 2023/02/25
 - [ ] 005 - Restricted Digits（★7）
 - [ ] 006 - Smallest Subsequence（★5）
 - [ ] 007 - CP Classes（★3）
