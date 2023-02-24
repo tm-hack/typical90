@@ -25,11 +25,12 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - [ ] 009 - Three Point Angle（★6）
 - [ ] 010 - Score Sum Queries（★2）
 
+## Libs
+
+- graphs.rs - グラフを表現する構造体
+- matrix.rs - ndarrayを使用した配列処理のサンプル
+
 ## Reference
 
 WIP
 
-## libs
-
-- graphs.rs - グラフを表現する構造体
-- matrix.rs - ndarrayを使用した配列処理のサンプル
