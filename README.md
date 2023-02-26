@@ -15,16 +15,14 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 
 ## Progress
 
-| No  | rate | task name   | key word                        | done date                                                                               |
-| --- | ---- | ----------- | ------------------------------- | --------------------------------------------------------------------------------------- |
-| 001 | **** | Yokan Party | Binary tree search with answers | [2023/02/23](https://github.com/tm-hack/typical90/blob/master/src/proublems/task001.rs) |
-| 002 | ***  |             |                                 | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task002.rs) |
-| 003 |      |             |                                 |                                                                                         |
-|     |      |             |                                 |                                                                                         |
+| No  | check | rate | task name                   | key word                        | done date                                                                               |
+| --- | ----- | ---- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------- |
+| 001 | [x]   | *4   | Yokan Party                 | Binary tree search with answers | [2023/02/23](https://github.com/tm-hack/typical90/blob/master/src/proublems/task001.rs) |
+| 002 | [x]   | *3   | Encyclopedia of Parentheses | full bit search                 | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task002.rs) |
+| 003 | [x]   | *4   | Longest Circular Road       | graph search                    | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task003.rs) |
+| 004 | [x]   | *2   | Cross Sum                   |                                 | [2023/02/25](https://github.com/tm-hack/typical90/blob/master/src/proublems/task004.rs) |
+|     |       |      |                             |                                 |                                                                                         |
 
-- [x] 002 - Encyclopedia of Parentheses（★3）done: 2023/02/24
-- [x] 003 - Longest Circular Road（★4）done: 2023/02/24
-- [x] 004 - Cross Sum（★2）done: 2023/02/25
 - [ ] 005 - Restricted Digits（★7）
 - [ ] 006 - Smallest Subsequence（★5）
 - [x] 007 - CP Classes（★3）done: 2023/02/26
