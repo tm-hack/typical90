@@ -15,17 +15,17 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 
 ## Progress
 
-| No  | rate | task name                   | key word                        | done date                                                                               |
+| No  | Rate | Task name                   | Key word                        | Done date                                                                               |
 | --- | ---- | --------------------------- | ------------------------------- | --------------------------------------------------------------------------------------- |
 | 001 | *4   | Yokan Party                 | Binary tree search with answers | [2023/02/23](https://github.com/tm-hack/typical90/blob/master/src/proublems/task001.rs) |
 | 002 | *3   | Encyclopedia of Parentheses | full bit search                 | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task002.rs) |
 | 003 | *4   | Longest Circular Road       | graph search                    | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task003.rs) |
-| 004 | *2   | Cross Sum                   |                                 | [2023/02/25](https://github.com/tm-hack/typical90/blob/master/src/proublems/task004.rs) |
+| 004 | *2   | Cross Sum                   | Pre-calculation                 | [2023/02/25](https://github.com/tm-hack/typical90/blob/master/src/proublems/task004.rs) |
+| 005 | *7   | Restricted Digits           |                                 |                                                                                         |
+| 006 | *5   | Smallest Subsequence        |                                 |                                                                                         |
+| 007 | *3   | CP Classes                  | sort and Binary tree search     | [2023/02/26](https://github.com/tm-hack/typical90/blob/master/src/proublems/task007.rs) |
 |     |      |                             |                                 |                                                                                         |
 
-- [ ] 005 - Restricted Digits（★7）
-- [ ] 006 - Smallest Subsequence（★5）
-- [x] 007 - CP Classes（★3）done: 2023/02/26
 - [ ] 008 - AtCounter（★4）
 - [ ] 009 - Three Point Angle（★6）
 - [ ] 010 - Score Sum Queries（★2）
