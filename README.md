@@ -15,7 +15,13 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 
 ## Progress
 
-- [x] 001 - Yokan Party（★4）done: 2023/02/23
+| No  | rate | task name   | key word                        | done date                                                                               |
+| --- | ---- | ----------- | ------------------------------- | --------------------------------------------------------------------------------------- |
+| 001 | **** | Yokan Party | Binary tree search with answers | [2023/02/23](https://github.com/tm-hack/typical90/blob/master/src/proublems/task001.rs) |
+| 002 | ***  |             |                                 | [2023/02/24](https://github.com/tm-hack/typical90/blob/master/src/proublems/task002.rs) |
+| 003 |      |             |                                 |                                                                                         |
+|     |      |             |                                 |                                                                                         |
+
 - [x] 002 - Encyclopedia of Parentheses（★3）done: 2023/02/24
 - [x] 003 - Longest Circular Road（★4）done: 2023/02/24
 - [x] 004 - Cross Sum（★2）done: 2023/02/25
