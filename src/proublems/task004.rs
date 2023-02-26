@@ -2,7 +2,6 @@ use itertools::Itertools;
 use ndarray::*;
 use proconio::*;
 
-#[fastout]
 pub fn main() {
     input! {
         h: usize,

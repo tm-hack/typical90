@@ -2,8 +2,9 @@
 
 ## Overview
 
-RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/tasks)を解いています。
-その回答をこのリポジトリに残しています。
+RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/tasks)を解いています。その回答をこのリポジトリに残しています。
+
+まずは★2~★4を埋めるのが目標です。
 
 ## Requirement
 
@@ -20,10 +21,20 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - [x] 004 - Cross Sum（★2）done: 2023/02/25
 - [ ] 005 - Restricted Digits（★7）
 - [ ] 006 - Smallest Subsequence（★5）
-- [ ] 007 - CP Classes（★3）
+- [x] 007 - CP Classes（★3）done: 2023/02/26
 - [ ] 008 - AtCounter（★4）
 - [ ] 009 - Three Point Angle（★6）
 - [ ] 010 - Score Sum Queries（★2）
+- [ ] 011 - Gravy Jobs（★6）
+- [ ] 012 - Red Painting（★4）
+- [ ] 013 - Passing（★5）
+- [ ] 014 - We Used to Sing a Song Together（★3）
+- [ ] 015 - Don't be too close（★6）
+- [ ] 016 - Minimum Coins（★3）
+- [ ] 017 - Crossing Segments（★7）
+- [ ] 018 - Statue of Chokudai（★3）
+- [ ] 019 - Pick Two（★6）
+- [ ] 020 - Log Inequality（★3）
 
 ## Libs
 
@@ -33,4 +44,3 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 ## Reference
 
 WIP
-
