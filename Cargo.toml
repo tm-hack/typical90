@@ -16,7 +16,7 @@ path = "src/main.rs"
 # https://github.com/rust-lang-ja/atcoder-rust-resources/wiki/2020-Update
 
 # 数値型の抽象化、多倍長整数、複素数、分数、及び整数型の拡張
-#num = "=0.2.1"
+num = "=0.2.1"
 #num-bigint = "=0.2.6"
 #num-complex = "=0.2.4"
 #num-integer = "=0.1.42"
