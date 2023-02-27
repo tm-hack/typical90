@@ -30,7 +30,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 | 011 | ⋆6   | Gravy Jobs                        |                                       |                                                                                           |
 | 012 | ⋆4   | Gravy Jobs                        |                                       |                                                                                           |
 | 013 | ⋆5   | Passing                           |                                       |                                                                                           |
-| 014 | ⋆3   | We Used to Sing a Song Together   |                                       |                                                                                           |
+| 014 | ⋆3   | We Used to Sing a Song Together   | greedy algorithm with sort            | [2023/02/27](https://github.com/tm-hack/typical90/blob/master/src/proublems/task014.rs)   |
 | 015 | ⋆6   | Don't be too close                |                                       |                                                                                           |
 | 016 | ⋆3   | Minimum Coins                     |                                       |                                                                                           |
 | 017 | ⋆7   | Crossing Segments                 |                                       |                                                                                           |
