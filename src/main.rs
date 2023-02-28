@@ -1,5 +1,5 @@
 use typical90::proublems::*;
 
 fn main() {
-    task016::main();
+    task018::main();
 }

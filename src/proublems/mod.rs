@@ -6,6 +6,7 @@ pub mod task007;
 pub mod task010;
 pub mod task014;
 pub mod task016;
+pub mod task018;
 pub mod task022;
 
 pub use task001::*;
@@ -16,4 +17,5 @@ pub use task007::*;
 pub use task010::*;
 pub use task014::*;
 pub use task016::*;
+pub use task018::*;
 pub use task022::*;
