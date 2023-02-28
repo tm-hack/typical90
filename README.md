@@ -38,7 +38,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 | 019 | ⋆6   | Pick Two                          |                                            |                                                                                           |
 | 020 | ⋆3   | Log Inequality                    |                                            |                                                                                           |
 | 021 | ⋆5   | Come Back in One Piece            |                                            |                                                                                           |
-| 022 | ⋆2   | Cubic Cake                        | calculate the greatest common divisor      | [2023/02/27](<https://github.com/tm-hack/typical90/blob/master/src/proublems/task010.rs>) |
+| 022 | ⋆2   | Cubic Cake                        | calculate the greatest common divisor      | [2023/02/27](<https://github.com/tm-hack/typical90/blob/master/src/proublems/task022.rs>) |
 | 023 | ⋆7   | Avoid War                         |                                            |                                                                                           |
 | 024 | ⋆2   | Select +/- One                    |                                            |                                                                                           |
 | 025 | ⋆7   | Digit Product Equation            |                                            |                                                                                           |
