@@ -12,6 +12,7 @@ RustでAtCoderの[競プロ典型90問](https://atcoder.jp/contests/typical90/ta
 - cargo
 - proconio 0.3.6
 - ndarray 0.13.0
+- num0.2.1
 
 ## Progress
 
